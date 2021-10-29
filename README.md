@@ -1,4 +1,4 @@
-# Getting startet  
+# Getting Started  
  
  This Project is a simple react application to demo api stubbing with cypress.
 
